@@ -1,6 +1,6 @@
 # Setosa and Versicolor Prediction
-This project aims to build a simple predictive model to 
-classify Iris flowers as Setosa or Versicolor using basic features.
+This project aims to build a simple predictive model using Logistic Regression to 
+classify  flowers as Setosa or Versicolor or Iris using basic features.
 
 ## This is how I am learning Github
 
