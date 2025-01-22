@@ -1,0 +1,6 @@
+title: Your App Title
+description: Your App Description
+theme:
+  base: "light"
+app_file: sl_app.py
+requirements_file: requirements.txt
